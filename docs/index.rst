@@ -6,7 +6,7 @@ If you are having trouble managing your email, knowing how to perform **sbcgloba
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desksbcglobal.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Sbcglobal Page</a>
+       <a href="https://sbcglobaldesk.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Sbcglobal Page</a>
    </div>
 
 What Is SBCGlobal.net Email?
@@ -78,3 +78,4 @@ Final Thoughts
 --------------
 
 Mastering the **sbcglobal email sign in** process is simple once you know the correct portals and methods. Whether you log in through AT&T’s official page, Yahoo Mail, or a mobile app, following the right steps ensures secure and uninterrupted access to your emails. Make sure to keep your login details safe, enable extra security features, and contact AT&T promptly if you suspect unauthorized activity.
+
